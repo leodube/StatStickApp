@@ -3,3 +3,6 @@ An iPad application that displays hockey stick action data from an API endpoint.
 
 ## Usage
 Download project and run in XCode.
+
+### Built with:
+- SwiftUI
